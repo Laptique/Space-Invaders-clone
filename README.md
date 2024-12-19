@@ -17,7 +17,7 @@ This is simple attempt at making a Space Invaders-style clone, built using SDL2 
 Follow these steps to set up and run the game in **Visual Studio Code**:
 
 ### Prerequisites
-1. Install **SDL2 Development Libraries**:
+1. Install **SDL2 Development Libraries** (for this example, I've already included the necessary files in the repository):
    - For Windows: Use `vcpkg` or download from [SDL2](https://libsdl.org).
    - For macOS: Use `brew install sdl2`.
    - For Linux: Use `sudo apt install libsdl2-dev`.
